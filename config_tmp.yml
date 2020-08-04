@@ -1,0 +1,5 @@
+DownloadDirectory:
+AutoTrashDirectory:
+# last modificated date at which auto trash should happen
+# eg: if 3 , then files modified 3 days ago will be moved to trash dir
+RecyclingDays: 3
